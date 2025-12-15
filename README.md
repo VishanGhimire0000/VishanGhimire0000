@@ -46,7 +46,7 @@ This repository reflects my **learning journey and growth**.
 
 ## 📫 Connect With Me
 
-- GitHub: [@VishanGhimire](https://github.com/VishanGhimire)
+- GitHub: [@VishanGhimire](https://github.com/VishanGhimire0000)
 
 ---
 
